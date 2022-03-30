@@ -1,0 +1,78 @@
+/* Header Navigation */
+
+
+.directory {
+    font-size: 19px;
+    /* Nav Style */
+}
+
+
+/* Index Page */
+
+
+
+.class-index {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: rgba(146, 152, 212, 0.719);
+    /* Index-Page Defaults */
+}
+
+.class-index h1 {
+    color: rgb(9, 0, 10);
+    font-size: 25px;
+    font-weight: bold;
+    /* H1 Section*/
+}
+
+
+/* Recipe Pages */
+
+
+.recipe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: rgba(146, 152, 212, 0.719);
+    color: black;
+    /* Recipe Page Defaults */
+}
+
+.recipe .recipe-title {
+    color: rgb(3, 36, 51);
+    font-size: 35px;
+    font-weight: bold;
+    /* Main Heading */
+}
+
+.recipe h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 30px;
+    color: rgb(119, 25, 196);
+    /* Occuring Heading Flavors */
+}
+
+.recipe li {
+    color: rgb(94, 11, 97);
+    font-size: large;
+    /* LIst Colors */
+}
+
+.recipe p {
+    color: rgb(94, 11, 97);
+    /* Paragraph Colors */
+}
+
+
+/* Images */
+
+
+.recipe .recipe-img {
+    width: auto;
+    height: 400px;
+    /* Main Header Photo for Recpie */
+}
